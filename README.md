@@ -1,11 +1,18 @@
-# Projeto de Extensão - Modelagem Drone QuadCopter
-## Universidade Federal do Pará
-## Campus Universitário de Tucuruí
-## Faculdade de Engenharia Elétrica
+<h1 align="center">
+  Projeto de Extensão - Modelagem Drone QuadCopter
+</h1>
+
+<h3 align="center">
+  Universidade Federal do Pará <br>
+  Campus Universitário de Tucuruí <br>
+  Faculdade de Engenharia Elétrica <br><br>
+</h3>
 
 <h1 align="center">
   <img src="assets/images/custom_pag_img/banner_p.jpg"/>
 </h1>
 
+
 # Objetivo
-O intuito desse projeto de extensão é ajudar quem está dando os primeiros passos na modelagem de um drone, dando a essa pessoas uma visão das etapas necessárias para a modelagem completa de um QuadRotor (Drone).
+
+    O intuito desse projeto de extensão é ajudar quem está dando os primeiros passos na modelagem de um drone, dando a essa pessoas uma visão das etapas necessárias para a modelagem completa de um QuadRotor (Drone).
