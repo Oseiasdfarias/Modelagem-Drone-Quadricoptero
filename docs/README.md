@@ -2,7 +2,9 @@
 sort: 1
 ---
 
-# Test Documentation
+<h1 align="center">
+    Documentação do Projeto
+</h1>
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
