@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 5
 ---
 
 # Partes Elétricas e Eletrônicas Principais que Compõem um Drone Quadricóptero 
