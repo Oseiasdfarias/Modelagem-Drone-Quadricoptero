@@ -16,5 +16,5 @@ Modelagem dinâmica de um drone Quadricóptero
 É o máximo que um corpo livre tem de liberdade de movimento!
 
 <h1 align="center">
-  <img src="../assets/images/model_dinamica/6DOF.png"/>
+  <img style="width:65%" width="100" src="../assets/images/model_dinamica/6DOF.png"/>
 </h1>
