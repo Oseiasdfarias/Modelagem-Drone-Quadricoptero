@@ -1,6 +1,6 @@
 # Modelagem Drone Quadricóptero
 
-<h2 align="center"> Link da Documentação - em construção ...<br><br>
+<h2> Link da Documentação - em construção ...<br><br>
 </h2>
 
 
