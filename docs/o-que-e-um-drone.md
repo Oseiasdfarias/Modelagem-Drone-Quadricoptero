@@ -17,7 +17,7 @@ sort: 1
 
 
 <h1 align="center">
-  <img style="width:65%" width="100"
+  <img style="width:45%" width="100"
   src="../assets/images/o_que_drone/drone_quadcopter.gif"/>
 </h1>
 
