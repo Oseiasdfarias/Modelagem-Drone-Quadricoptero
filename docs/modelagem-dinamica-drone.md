@@ -2,9 +2,9 @@
 sort: 2
 ---
 
-# Modelagem Dinâmica do Drone QuadCopter
+# Modelagem Dinâmica do Drone Quadricóptero
 
-Modelagem dinâmica de um drone quadrirrotor
+Modelagem dinâmica de um drone Quadricóptero
 
 <br>
 

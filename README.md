@@ -21,5 +21,5 @@
   O intuito desse projeto de extensão é ajudar quem está dando os
   primeiros passos na modelagem de um drone, dando a essa pessoas 
   uma visão das etapas necessárias para a modelagem completa de um 
-  QuadRotor (Drone).
+  Quadricóptero (Drone).
 </p>

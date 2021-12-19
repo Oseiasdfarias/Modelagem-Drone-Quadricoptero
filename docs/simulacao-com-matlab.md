@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Simulação Dinâmica do QuadCopter Usando o Matlab
+# Simulação Dinâmica do Quadricóptero Usando o Matlab
 
 <p>
 Vamos Criar um modelo Linear do nosso Modelo Dinâmico e simular usando o Software Simulink do Matlab<br><br>

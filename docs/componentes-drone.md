@@ -2,11 +2,11 @@
 sort: 4
 ---
 
-# Partes Elétricas e Eletrônicas Principais que Compõem um Drone
+# Partes Elétricas e Eletrônicas Principais que Compõem um Drone Quadricóptero 
 
 <p>
 
-Um Drone é composto por diversos dispositivos elétricos e eletrônicos, assim, devemos entender cada parte que compõem um Drone para que nosso aprendizado seja adequadamente projetado.
+Um Drone Quadricóptero  é composto por diversos dispositivos elétricos e eletrônicos, assim, devemos entender cada parte que compõem um Drone para que nosso aprendizado seja adequadamente projetado.
 </p>
 
 ## Motores
