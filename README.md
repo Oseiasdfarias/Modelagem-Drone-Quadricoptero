@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto de Extensão - Modelagem e Construção de um Drone Quadricóptero 
+  Projeto de Extensão <br/> Modelagem e Construção de um Drone Quadricóptero 
 </h1>
 
 <h3 align="center">
