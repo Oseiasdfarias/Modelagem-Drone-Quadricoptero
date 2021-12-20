@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Modelagem Matemática - Drone Quadricóptero
+# Modelagem Matemática |  Quadricóptero
 
 Modelagem Matemática de um drone Quadricóptero
 

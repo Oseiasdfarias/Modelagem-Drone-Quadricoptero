@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto de Extensão - Modelagem Drone Quadricóptero 
+  Projeto de Extensão - Modelagem e Construção de um Drone Quadricóptero 
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 
 <p>
   O intuito desse projeto de extensão é ajudar quem está dando os
-  primeiros passos na modelagem de um drone, dando a essa pessoas 
+  primeiros passos na modelagem de um drone Quadricópitero, dando a essa pessoas 
   uma visão das etapas necessárias para a modelagem completa de um 
-  Quadricóptero (Drone).
+  Quadricóptero.
 </p>
