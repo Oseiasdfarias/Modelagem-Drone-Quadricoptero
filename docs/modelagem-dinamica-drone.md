@@ -6,6 +6,10 @@ sort: 3
 
 Modelagem dinâmica de um drone Quadricóptero
 
+## O que é Modelagem Dinâmica?
+
+a resposta (saída) do sistema depende de entradas atuais e "passadas" (tem memória).
+
 <br>
 
 ---

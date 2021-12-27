@@ -2,9 +2,21 @@
 sort: 2
 ---
 
-# Modelagem Matemática |  Quadricóptero
+# Modelagem Matemática | Quadricóptero
 
 Modelagem Matemática de um drone Quadricóptero
+
+<br>
+
+---
+<br>
+
+## O que é Modelagem Matemática?
+
+<p>
+A modelagem matemática é a área do conhecimento que estuda a simulação de sistemas reais a fim de prever o comportamento destes, sendo empregada em diversos campos de estudo, tais como física, química, biologia, economia e engenharias. Ou seja, a modelagem matemática consiste na atividade (ou tentativa) de descrever matematicamente um fenômeno.
+<a href="https://pt.wikipedia.org/wiki/Modelagem_matem%C3%A1tica" target="_blank">wikipedia</a>
+</p>
 
 <br>
 
